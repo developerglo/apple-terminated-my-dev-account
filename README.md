@@ -16,11 +16,11 @@ However, we listened to the App Review and immediately updated the app’s desig
 
 We were very shocked and confused with App Review Board’s decision to terminate our account because the last update we made to the app should have complied with the App Store Guidelines.
 
-What I have done wrong:
+# What I have done wrong:
 
 I have tried to resubmit the app again and again despite it got rejected multiple times. I should have call Apple support to clarify and make sure before resubmitting it.
 
-What I have tried:
+# What I have tried:
 
 1. Sent appeal to App Review Board
 
