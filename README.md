@@ -1,4 +1,4 @@
-Please Help!!! Apple Developer Account got flagged for removal without a clear explanation!
+# Please Help!!! Apple Developer Account got flagged for removal without a clear explanation!
 
 My business has been on App Store for 3 years with 30 Apps on the Apps Store. Our revenue just reached a milestone this year that made us unqualified for Small Business Program. We were very grateful for such an accomplishment this year and our small team was prepared and ready for our next milestone next year.
 
