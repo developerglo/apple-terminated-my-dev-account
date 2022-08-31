@@ -6,7 +6,7 @@ However, one of our apps “Second Phone Number” has recently been rejected an
 
 We were working with the App Review to make changes and to ensure our new app version complies so it can be approved by the App Review Board.
 
-And the last response we received before the removal notice was: “We noticed your app attempts to manipulate customers into making unwanted in-app purchases. Specifically, we noticed that your app displayed a secondary promotion.”
+And the last response we received before the removal notice was: `“We noticed your app attempts to manipulate customers into making unwanted in-app purchases. Specifically, we noticed that your app displayed a secondary promotion.”`
 
 Our app is never designed for unwanted purchase. The App Review Board kept saying they couldn’t decline the subscription and there was no “Back” button displays in the paywall. We replied with screenshot and video to show them that there is a “Back” button and user can decline the subscription and exit the subscription screen by clicking on that.
 
